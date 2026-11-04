@@ -27,7 +27,7 @@ git clone https://github.com/Joaor809/calculadora-python.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd calculadora
 ```
 
 3. Instale a dependência:
